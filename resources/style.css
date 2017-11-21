@@ -1,0 +1,11 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+h1, h2 {
+  color: DarkGreen;
+}
+
+#bahia h2, #selange h2, #hunt h2, #moat h2 {
+  color: SeaGreen;
+}
